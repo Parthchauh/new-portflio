@@ -16,7 +16,6 @@ import { env } from "@env.mjs";
 const { chains, publicClient } = configureChains(
   [mainnet, polygon, optimism, arbitrum, base, zora],
   [
-    alchemyProvider({ apiKey: env.NEXT_PUBLIC_ALCHEMY_API_KEY }),
     publicProvider(),
   ]
 );
