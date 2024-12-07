@@ -49,7 +49,7 @@ const SocialIcon: React.FC<SocialIconProps> = ({
         <div className="flex justify-between gap-6">
           <Avatar>
             <AvatarImage src={pfpLink} />
-            <AvatarFallback>RDS</AvatarFallback>
+            <AvatarFallback>PC</AvatarFallback>
           </Avatar>
           <div className="space-y-1">
             <a

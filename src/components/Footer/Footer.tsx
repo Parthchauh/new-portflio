@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer className="bg-secondary">
       <div className="bg-opacity-75">
-        <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row s">
+        <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
           <p className="text-sm text-center sm:text-left flex flex-row justify-center">
             © {new Date().getFullYear()},
             <a
@@ -11,13 +11,13 @@ const Footer = () => {
               className="ml-1 p-0"
               target="_blank"
             >
-              Rudrodip Sarker
+              Parth Chauhan
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
             <a
               className="text-gray-400"
-              href="https://facebook.com/enthusiast.math"
+              href="https://www.instagram.com/parthcodehub"
               target="_blank"
             >
               <svg
@@ -33,7 +33,7 @@ const Footer = () => {
             </a>
             <a
               className="ml-3 text-gray-400"
-              href="https://twitter.com/rds_agi"
+              href="https://twitter.com/parthcodehub"
               target="_blank"
             >
               <svg
@@ -49,7 +49,7 @@ const Footer = () => {
             </a>
             <a
               className="ml-3 text-gray-400"
-              href="https://www.youtube.com/@rudrodipsarker"
+              href="https://www.youtube.com/@parthcodehub"
               target="_blank"
             >
               <svg
@@ -62,7 +62,7 @@ const Footer = () => {
             </a>
             <a
               className="ml-3 text-gray-400"
-              href="https://www.linkedin.com/in/rudrodip"
+              href="https://www.linkedin.com/in/parthchauhan0702/"
               target="_blank"
             >
               <svg

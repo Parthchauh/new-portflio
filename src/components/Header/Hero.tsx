@@ -26,7 +26,7 @@ export const HeroSection = () => {
               target="_blank"
               className="text-blue-400 underline"
             >
-              @rds_agi
+              @Parth
             </a>
           </span>
         </div>
@@ -40,10 +40,10 @@ export const HeroSection = () => {
         </p>
         <div className="flex gap-4 align-middle flex-wrap my-5">
           <Button asChild variant="outline" size="sm">
-            <Link href="https://cal.com/rds_agi">Get in touch</Link>
+            <Link href="https://parthdev.vercel.app/">Get in touch</Link>
           </Button>
           <Button asChild variant="outline" size="sm">
-            <Link href="https://raw.githubusercontent.com/rudrodip/rudrodip/main/resume.pdf" className="relative">
+            <Link href="https://drive.google.com/file/d/1JPknA4k1APiF4_kY-tASxelkuLOFeRAo/view?usp=sharing" className="relative">
               Resume
               <span className="w-[8px] h-[8px] rounded-full absolute top-[-3px] right-[-3px] animate-ping bg-primary"></span>
             </Link>

@@ -1,11 +1,3 @@
-/*
-  Callout Component
-  Created by: Rudrodip Sarker
-  Date: August 25, 2023
-  Inspired by: https://github.com/shadcn-ui/taxonomy
-  GitHub: https://github.com/rudrodip
-*/
-
 import { cn } from "@/lib/utils";
 
 interface CalloutProps {

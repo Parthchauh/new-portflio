@@ -5,7 +5,7 @@ type PageType = {
 
 const pages: PageType[] = [
   {
-    name: '/rudrodip',
+    name: '/Parth.dev',
     url: '/'
   },
   {

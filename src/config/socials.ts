@@ -4,32 +4,32 @@ import { Github, Twitter, Linkedin, Facebook, Instagram } from "lucide-react";
 export const socialIconsData: SocialIconProps[] = [
   {
     Icon: Github,
-    accountName: "rudrodip",
-    link: "https://github.com/rudrodip",
-    pfpLink: "https://avatars.githubusercontent.com/u/77154365",
+    accountName: "parthcodehub",
+    link: "https://github.com/parthcodehub",
+    pfpLink: "https://avatars.githubusercontent.com/u/77154365", // Update with your own profile picture link if needed
   },
   {
     Icon: Twitter,
-    accountName: "@rds_agi",
-    link: "https://twitter.com/rds_agi",
-    pfpLink: "https://unavatar.io/twitter/rds_agi",
+    accountName: "@parthcodehub",
+    link: "https://twitter.com/parthcodehub",
+    pfpLink: "https://unavatar.io/twitter/parthcodehub", // Update with your own profile picture link if needed
   },
   {
     Icon: Linkedin,
-    accountName: "Rudrodip Sarker",
-    link: "https://www.linkedin.com/in/rudrodip",
-    pfpLink: "https://avatars.githubusercontent.com/u/77154365",
+    accountName: "Parth Chauhan",
+    link: "https://www.linkedin.com/in/parthchauhan0702/",
+    pfpLink: "https://avatars.githubusercontent.com/u/77154365", // Update with your own profile picture link if needed
   },
   {
     Icon: Facebook,
-    accountName: "Rudrodip Sarker",
-    link: "https://facebook.com/enthusiast.math",
-    pfpLink: "https://avatars.githubusercontent.com/u/77154365",
+    accountName: "Parth Chauhan",
+    link: "https://facebook.com/parthcodehub", // Replace with your actual Facebook URL if available
+    pfpLink: "https://avatars.githubusercontent.com/u/77154365", // Update with your own profile picture link if needed
   },
   {
     Icon: Instagram,
-    accountName: "@rds_agi",
-    link: "https://www.instagram.com/rds_agi",
-    pfpLink: "https://avatars.githubusercontent.com/u/77154365",
+    accountName: "@parthcodehub",
+    link: "https://www.instagram.com/parthcodehub",
+    pfpLink: "https://avatars.githubusercontent.com/u/77154365", // Update with your own profile picture link if needed
   },
 ];

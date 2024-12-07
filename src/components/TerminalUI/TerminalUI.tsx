@@ -52,22 +52,22 @@ const TerminalUI = () => {
         whileInView="show"
         viewport={{ once: true }}
       >
-        <motion.p variants={prompts}>$ Rudrodip.currentLocation</motion.p>
-        <motion.p variants={prompts}>"Rajshahi, Bangladesh"</motion.p>
+        <motion.p variants={prompts}>$ Parth.currentLocation</motion.p>
+        <motion.p variants={prompts}>"Anand, Gujarat, India"</motion.p>
         <br />
-        <motion.p variants={prompts}>$ Rudrodip.contactInfo</motion.p>
+        <motion.p variants={prompts}>$ Parth.contactInfo</motion.p>
         <motion.p variants={prompts} className="gray-gradient">
           [
           <a
             className="underline_animation"
-            href="mailto:official.rudrodipsarker@gmail.com"
+            href="mailto:cparth495@gmail.com"
           >
-            "official.rudrodipsarker@gmail.com"
+            "cparth495@gmail.com"
           </a>
           ,
           <a
             className="underline_animation"
-            href="https://www.linkedin.com/in/rudrodip"
+            href="https://www.linkedin.com/in/parthchauhan0702/"
             target="_blank"
           >
             {" "}
@@ -76,7 +76,7 @@ const TerminalUI = () => {
           ,
           <a
             className="underline_animation"
-            href="https://github.com/rudrodip"
+            href="https://github.com/parthcodehub"
             target="_blank"
           >
             {" "}
@@ -85,21 +85,18 @@ const TerminalUI = () => {
           ]
         </motion.p>
         <br />
-        <motion.p variants={prompts}>$ Rudrodip.interests</motion.p>
+        <motion.p variants={prompts}>$ Parth.interests</motion.p>
         <motion.p variants={prompts} className="">
-          [ "Programming", "Deep learning", "Mathematics", "Physics",
-          "Automation", "Robotics", "Prototyping" ]
+          [ "Programming", "Deep Learning", "Mathematics", "Physics", "AI", "Web Development", "Software Engineering" ]
         </motion.p>
         <br />
-        <motion.p variants={prompts}>$ Rudrodip.skills</motion.p>
+        <motion.p variants={prompts}>$ Parth.skills</motion.p>
         <motion.p variants={prompts} className="">
-          ["Python", "Javascript", "Typescript", "React", "React Native", "Next
-          JS", "Flutter & Dart", "Flask", "ExpressJS", "Firebase", "Tailwind
-          css", "Pytorch", "Tensorflow", "Git & Github"]
+          ["Python", "JavaScript", "TypeScript", "React", "React Native", "Next.js", "Flutter & Dart", "ExpressJS", "Firebase", "Tailwind CSS", "Git & GitHub"]
         </motion.p>
         <br />
-        <motion.p variants={prompts}>$ Rudrodip.currentInstitution</motion.p>
-        <motion.p variants={prompts}>"Class 12, Rajshahi College"</motion.p>
+        <motion.p variants={prompts}>$ Parth.currentInstitution</motion.p>
+        <motion.p variants={prompts}>"Diploma , Anand, Gujarat, India"</motion.p>
       </motion.div>
     </div>
   );
