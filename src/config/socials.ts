@@ -4,8 +4,8 @@ import { Github, Twitter, Linkedin, Facebook, Instagram } from "lucide-react";
 export const socialIconsData: SocialIconProps[] = [
   {
     Icon: Github,
-    accountName: "parthcodehub",
-    link: "https://github.com/parthcodehub",
+    accountName: "Parth Chauhan",
+    link: "https://github.com/Parthchauh",
     pfpLink: "https://avatars.githubusercontent.com/u/77154365", // Update with your own profile picture link if needed
   },
   {
