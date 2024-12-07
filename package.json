@@ -38,6 +38,7 @@
     "cmdk": "^0.2.1",
     "contentlayer": "^0.3.4",
     "date-fns": "^2.30.0",
+    "encoding": "^0.1.13",
     "eslint": "8.47.0",
     "eslint-config-next": "latest",
     "framer-motion": "^10.16.1",
